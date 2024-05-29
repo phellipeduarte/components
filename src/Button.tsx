@@ -7,6 +7,7 @@ interface ButtonProps {
 export enum Type {
     Main = "bg-sky-400",
     Sec = "bg-amber-600",
+    Danger = "bg-rose-700"
 }
 
 export const Button = (props: ButtonProps) => {
