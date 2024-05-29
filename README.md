@@ -36,6 +36,7 @@ Por fim, basta especificar o _Type_ do botão através do enum:
 export enum Type {
     Main = "bg-sky-400",
     Sec = "bg-amber-600",
+    Danger = "bg-rose-700"
 }
 ```
 
